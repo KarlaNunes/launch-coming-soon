@@ -43,8 +43,10 @@ header img {
 /*========== MAIN =============*/
 main {
   display: flex;
+  align-items: center;
   justify-content: space-around;
-  gap: 82px;
+  width: 100%;
+  height: 50%;
 }
 
 .container-text {
@@ -99,6 +101,10 @@ main {
   font-size: 72px;
   font-weight: 400;
   color: var(--gray);
+}
+
+.container-image {
+  margin-top: 80px;
 }
 
 .container-image img {
