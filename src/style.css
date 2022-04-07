@@ -97,7 +97,7 @@ main {
   color: var(--light-gray);
 }
 
-.container-countdown h3 {
+.container-countdown span {
   font-size: 72px;
   font-weight: 400;
   color: var(--gray);
