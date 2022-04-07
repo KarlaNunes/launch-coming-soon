@@ -34,7 +34,7 @@ The project is a solution to a challenge from Rockeseat Discover course and had 
     <li>A subscribe button</li>
   </ul>
 
----
+Link to Challenge: https://efficient-sloth-d85.notion.site/Desafio-Countdown-4572ce6f5c91469abe0171f454a13e3f
 
 ## Tech Stack
 
