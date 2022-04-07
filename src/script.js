@@ -3,7 +3,7 @@ const hours = document.getElementById('hours')
 const minutes = document.getElementById('minutes')
 const seconds = document.getElementById('seconds')
 
-const expectedDay = '10 Apr 2022'
+const expectedDay = '28 Apr 2022'
 
 function countdown() {
   const expectedDayDate = new Date(expectedDay)
