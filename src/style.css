@@ -188,3 +188,7 @@ form input {
   font-size: 16px;
   padding: 20px;
 }
+
+form button {
+  float: right;
+}
