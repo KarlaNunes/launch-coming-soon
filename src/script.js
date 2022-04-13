@@ -30,3 +30,16 @@ function formatTime(time) {
 countdown()
 
 setInterval(countdown, 1000)
+
+//================= MODAL ==================
+const buttonSubscribe = document.getElementById('subscribe')
+const modalContainer = document.getElementById('modal-container')
+const buttonCloseModal = document.getElementById('close')
+
+buttonSubscribe.addEventListener('click', () => {
+  modalContainer.classList.add('show')
+})
+
+buttonCloseModal.addEventListener('click', () => {
+  modalContainer.classList.remove('show')
+})
